@@ -1,4 +1,4 @@
-Programming Assignment 1: Air Pollution: Instructions
+Programming Assignment 1: Air Pollution
 =====
 
 ##Assignment Link
